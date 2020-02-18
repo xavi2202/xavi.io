@@ -1,4 +1,4 @@
-# Introduction-to-Career-Tech-Resume-Page
+# Introduction to Career Tech Resume Page
 
 This is a basic HTML Resume Page, you can use this to build your own about me website. 
 
